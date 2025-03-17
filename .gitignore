@@ -1,0 +1,14 @@
+# Ignoră mediul virtual
+venv/
+.env/
+
+# Ignoră fișierele compilate
+__pycache__/
+*.py[cod]
+
+# Ignoră fișierele de log
+*.log
+
+# Ignoră configurațiile locale și variabilele de mediu
+.env
+*.env
